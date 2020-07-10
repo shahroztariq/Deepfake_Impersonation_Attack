@@ -1,0 +1,425 @@
+Filename,Src,Tar,Src Pred.,Src Conf.,Tar Pred.,Tar Conf.,Similarity
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/95_02498_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.19250038266181946
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/89_00317_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.505484938621521
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/87_01821_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,93.0,0.4730883836746216
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/61_01266_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.14567029476165771
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/67_03497_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,75.0,0.1354658454656601
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/12_03028_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.04865708947181702
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/28_02144_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.053753819316625595
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/14_02948_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.054965365678071976
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/70_01764_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,1.5109705924987793
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/20_02281_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,1.0249991416931152
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/51_01319_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,74.0,0.03152402490377426
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/26_02192_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.23072832822799683
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/6_02709_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.11664718389511108
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/96_03470_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,90.0,0.2129618525505066
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/10_01652_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.04845859482884407
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/78_00074_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Fumie Suguri,87.0,0.17875202000141144
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/4_02338_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.2781551480293274
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/86_00758_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,75.0,0.40700119733810425
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/30_01705_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,94.0,0.12987107038497925
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/50_02576_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.15636147558689117
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/99_00792_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.533843457698822
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/91_00497_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,79.0,0.14957517385482788
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/88_02308_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.4686070680618286
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/43_03445_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.20765049755573273
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/69_02787_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,1.7989168167114258
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/79_02259_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.35702481865882874
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/80_01506_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Fumie Suguri,79.0,0.296181857585907
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/40_00010_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Bae Suzy,93.0,99.91539764404297
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/36_02930_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.17221719026565552
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/21_01627_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,72.0,0.09136547148227692
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/72_02426_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.34856659173965454
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/93_00057_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,94.23893737792969
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/62_00042_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mana Ashida,63.0,28.36675262451172
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/77_00326_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,1.5086787939071655
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/56_01006_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,96.0,0.01161956787109375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/64_00043_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,20.3843936920166
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/13_03433_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Fumie Suguri,92.0,0.11588910222053528
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/27_00793_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.6170374155044556
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/84_03219_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.2524365484714508
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/55_00036_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,76.0,0.6857907176017761
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/100_02827_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.06746020168066025
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/8_00043_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,78.0113296508789
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/2_00018_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,67.0,0.356279581785202
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/47_00499_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,87.0,0.39075472950935364
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/58_00835_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Minami Minegishi,77.0,0.023740384727716446
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/11_02286_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,1.3744761943817139
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/9_01180_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,58.999996185302734,0.47483959794044495
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/31_03681_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,78.0,0.14725273847579956
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/35_01031_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,69.0,0.3895222544670105
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/46_02877_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.07372542470693588
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/82_02465_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Waka Inoue,68.0,0.5830386877059937
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/24_01437_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,74.0,0.18174150586128235
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/33_00534_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.18538090586662292
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/98_00460_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.2782082259654999
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/94_02414_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.3717480003833771
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/25_03227_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,61.0,0.051425501704216
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/52_00044_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Bae Suzy,97.0,99.42948913574219
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/48_00019_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Rena Nōnen,86.0,96.3147964477539
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/60_02492_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.06304949522018433
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/75_01236_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.0799991562962532
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/63_01905_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.1611327826976776
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/16_01298_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,77.0,0.09343202412128448
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/57_00829_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,92.0,0.1345376819372177
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/17_00591_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,55.0,0.1625119000673294
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/32_01991_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,65.0,0.23121067881584167
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/49_00906_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.8065991997718811
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/85_02918_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.036520037800073624
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/54_00094_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,74.0,0.40412405133247375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/34_02051_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,89.0,0.15119639039039612
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/23_01465_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,81.0,0.29728811979293823
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/97_03509_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,75.0,0.10804974287748337
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/53_01583_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,67.0,0.39969584345817566
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/7_02881_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.07954207062721252
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/18_00034_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,12.639673233032227
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/19_01047_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.030421901494264603
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/81_00612_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,96.0,0.31130456924438477
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/92_02767_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.03609161078929901
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/29_02944_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.07740309089422226
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/68_01702_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,93.0,0.5267605185508728
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/3_01522_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,63.0,0.20874395966529846
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/74_01792_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,71.0,0.09817958623170853
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/76_01666_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,72.0,0.1942024976015091
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/22_01933_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Fumie Suguri,65.0,0.3482516407966614
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/45_02963_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.04655937850475311
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/38_03012_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.16685974597930908
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/83_00735_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Fumie Suguri,76.0,0.4702259302139282
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/73_03077_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.4306761622428894
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/41_01482_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.07541520893573761
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/71_02033_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,58.999996185302734,0.07645853608846664
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/1_00160_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.15513946115970612
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/39_01597_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,76.0,0.15484817326068878
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/5_00860_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,89.0,0.46246615052223206
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/15_00214_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.4641174376010895
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/65_00031_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,5.491774559020996
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/37_00028_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,57.715476989746094
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/42_02983_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Yoo In-na,77.0,0.13568945229053497
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/44_00607_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Fumie Suguri,78.0,0.5355586409568787
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/59_01599_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,Mina,80.0,0.10897798836231232
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/90_00037_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,74.22039794921875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Bae Suzy/66_02039_0.jpg,Bae Suzy,Bae Suzy,Bae Suzy,100.0,,,0.5568330883979797
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/77_02884_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,97.58473205566406
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/60_00756_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,76.84135437011719
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/41_00238_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,85.30113983154297
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/91_00861_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,51.0498046875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/46_01055_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,19.50174903869629
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/90_01148_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,38.18822479248047
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/6_00944_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,94.58798217773438
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/29_03356_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,78.86785125732422
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/47_00066_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,37.7939567565918
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/45_02273_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,93.4504623413086
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/14_01262_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,43.70437240600586
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/42_02212_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,98.48997497558594
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/43_00107_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,8.366924285888672
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/83_01743_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,64.0,72.474853515625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/88_00538_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Norah Jones,80.0,23.983469009399414
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/84_02909_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,97.47913360595703
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/52_00345_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alice David,74.0,26.25353240966797
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/11_02140_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,92.0,98.19400024414062
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/40_02174_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,95.0,96.67916107177734
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/57_00306_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Constance Rousseau,62.0,83.65203857421875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/3_00696_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Sara Carbonero,93.0,31.649187088012695
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/66_00080_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,43.95170211791992
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/68_01028_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,83.0,87.78382873535156
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/26_00760_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,72.68844604492188
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/78_02476_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,75.11929321289062
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/16_02443_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,73.0,71.0655517578125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/56_01479_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Crystal Reed,78.0,31.130611419677734
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/80_00741_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,83.98880004882812
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/55_00927_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alice Englert,91.0,72.12743377685547
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/61_00967_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,66.52052307128906
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/53_00506_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,37.544395446777344
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/4_01387_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,39.50048828125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/28_00198_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Norah Jones,70.0,43.51338195800781
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/18_00544_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,33.496795654296875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/54_02445_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,82.35745239257812
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/70_02465_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,78.4368667602539
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/71_01522_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,56.7067985534668
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/94_00362_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,83.0,60.873775482177734
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/87_02556_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,96.01732635498047
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/93_01268_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,44.774417877197266
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/9_00342_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,68.55176544189453
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/2_03130_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,35.531864166259766
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/44_00023_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,83.50970458984375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/32_01412_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Isobelle Molloy,84.0,39.25606155395508
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/62_02446_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,65.15812683105469
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/30_00828_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Ciara Bravo,55.0,29.450637817382812
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/21_02361_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,85.0,96.8201904296875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/37_00793_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Ileana Cabra,70.0,62.63663864135742
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/13_01591_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,97.78055572509766
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/76_00091_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,7.029750347137451
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/23_01774_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,86.9259262084961
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/67_00069_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Norah Jones,56.0,8.663050651550293
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/20_01090_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,16.283634185791016
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/72_00772_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Anna Brewster,66.0,22.83547592163086
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/7_02236_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,99.5274429321289
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/51_01518_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,50.694400787353516
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/63_00270_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Norah Jones,74.0,34.575889587402344
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/85_02308_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,68.45606231689453
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/86_00218_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Donna Harun,55.0,37.6319694519043
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/89_02195_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,58.0,98.29694366455078
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/92_00824_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,36.12116241455078
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/49_00281_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,61.60662078857422
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/59_03115_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,49.1926383972168
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/100_01119_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Kriti Sanon,62.0,7.887571334838867
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/58_01271_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,44.24991226196289
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/31_02614_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,90.24256134033203
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/33_00920_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,62.93546676635742
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/81_00451_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Paula Lane,56.0,49.6101188659668
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/27_00016_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,84.12188720703125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/15_00339_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Ezgi Mola,93.0,15.69113540649414
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/10_01398_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,44.793697357177734
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/75_00047_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Sara Carbonero,91.0,24.28894805908203
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/17_00880_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,79.08174896240234
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/82_00358_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,79.81421661376953
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/99_02840_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,10.420981407165527
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/73_00038_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,51.762847900390625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/74_01589_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,93.6918716430664
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/50_00541_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,55.24285888671875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/19_03095_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,0.5142344832420349
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/96_00915_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,32.68394088745117
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/24_00382_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,44.70499038696289
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/65_00769_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,40.58225631713867
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/5_02070_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,80.0,98.59849548339844
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/25_00143_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,9.917506217956543
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/39_00959_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Anna Bessonova,67.0,22.80010223388672
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/35_02002_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,93.98377990722656
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/22_01595_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,94.22265625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/34_00479_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,73.85480499267578
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/95_01965_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,80.08708953857422
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/69_01587_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,98.83010864257812
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/36_01397_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,37.01416015625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/64_00422_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Mariah O'Brien,57.0,37.815330505371094
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/79_00108_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,18.73950958251953
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/12_00694_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,24.48171043395996
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/1_00005_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,85.27942657470703
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/48_02693_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,85.68973541259766
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/8_02004_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,94.70450592041016
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/97_00160_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,,,79.93634033203125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/38_00652_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Kriti Sanon,55.0,23.851940155029297
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Alexis Bledel/98_02188_0.jpg,Alexis Bledel,Alexis Bledel,Alexis Bledel,100.0,Alexis Bledel,96.0,98.44786834716797
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/65_00756_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,5.983410358428955
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/48_03633_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,6.5226922035217285
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/95_04901_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,70.042236328125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/13_01932_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,92.12103271484375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/72_07837_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,83.49050903320312
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/12_01873_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,4.982097625732422
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/19_00466_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,6.519864559173584
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/11_06261_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,0.2706272304058075
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/56_04984_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,71.92098236083984
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/84_01048_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,61.18580627441406
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/46_02839_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,14.07175350189209
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/4_02862_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Heather Lind,58.0,60.83859634399414
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/83_02966_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,1.9009342193603516
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/78_00117_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,42.40084457397461
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/37_03507_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,10.02704906463623
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/25_03894_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Adrienne La Russa,85.0,11.035701751708984
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/22_04955_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,7.080510139465332
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/87_02128_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,22.90554428100586
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/44_07070_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,22.239599227905273
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/3_00357_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,57.4587516784668
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/17_01830_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Erin Cahill,64.0,23.455163955688477
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/88_06908_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Anne Neville,66.0,7.868048667907715
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/36_00659_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,2.445125102996826
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/40_04133_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,41.994659423828125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/93_02607_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,13.556495666503906
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/77_01958_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,55.13759994506836
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/28_00974_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,30.808109283447266
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/50_11946_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,64.23543548583984
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/100_03264_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,0.8140496015548706
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/66_02072_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,6.566160202026367
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/90_00678_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Josh Beech,62.0,91.83744812011719
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/29_00859_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,1.5887691974639893
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/82_02811_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,70.1249771118164
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/10_00057_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,2.154160499572754
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/49_00286_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,24.404308319091797
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/60_02823_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,6.096569061279297
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/99_03288_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,47.7060546875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/71_00775_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,91.78950500488281
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/8_00547_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,69.21300506591797
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/45_00331_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,0.9175624847412109
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/63_01552_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Andreja Pejić,57.0,19.06045150756836
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/51_00697_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Marty Strech,65.0,95.9490737915039
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/92_06471_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,1.5056403875350952
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/9_03172_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,69.7105941772461
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/97_00417_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,3.843919515609741
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/33_01613_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,66.6126708984375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/75_01115_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,18.989927291870117
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/54_00187_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,43.912620544433594
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/32_02242_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,19.22264862060547
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/61_00786_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,91.04129791259766
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/23_02586_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,42.87030029296875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/6_00766_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,87.70389556884766
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/68_01522_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,85.54318237304688
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/14_06674_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,89.57294464111328
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/42_03880_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,17.3634090423584
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/47_02071_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,18.245338439941406
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/7_01877_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,5.5933518409729
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/21_03847_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,18.9373722076416
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/76_05164_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,0.057015176862478256
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/98_03395_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,26.4888916015625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/79_04099_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Emma Watson,55.0,54.49665832519531
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/18_00219_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,78.78827667236328
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/30_00091_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,32.22880554199219
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/41_00555_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,62.24220275878906
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/43_00075_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,2.2594175338745117
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/64_01633_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,0.5880244970321655
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/59_03474_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,32.91432571411133
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/38_03753_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,30.88457489013672
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/73_00549_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,10.29476261138916
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/20_00445_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Nicholas Hoult,60.000003814697266,1.3385341167449951
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/15_04197_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,25.256685256958008
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/5_03677_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,71.88645935058594
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/39_00478_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,49.909278869628906
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/69_06386_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,5.429606914520264
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/31_00591_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,67.35298919677734
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/80_00164_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Emma Watson,88.0,93.45743560791016
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/52_02104_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,9.163054466247559
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/57_00174_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,28.177520751953125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/2_00132_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Emma Watson,72.0,88.4528579711914
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/89_02488_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,34.27838134765625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/34_00944_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,54.265560150146484
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/67_00911_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,0.11834166944026947
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/1_02693_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,0.8215926885604858
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/74_00284_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,94.6999282836914
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/70_00515_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Emma Watson,62.0,74.75630950927734
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/81_05270_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,11.720221519470215
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/62_01568_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,10.1506986618042
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/91_01062_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Brian Molko,94.0,34.765899658203125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/53_00550_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,8.431866645812988
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/24_03175_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Fernanda Machado,60.000003814697266,86.23426818847656
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/96_01638_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,1.69280207157135
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/86_07709_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,96.33738708496094
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/16_06141_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,7.451135635375977
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/35_00646_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,53.125648498535156
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/55_03849_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,18.74071502685547
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/94_00639_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,,,70.50395202636719
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/27_02884_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Isabelle Drummond,61.0,64.92098999023438
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/85_04247_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Emma Watson,92.0,89.71146392822266
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/26_00681_0 - Copy.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Gillian Welch,78.0,73.43093872070312
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Emma Watson/58_01804_0.jpg,Emma Watson,Emma Watson,Emma Watson,100.0,Caitlin Wachs,94.0,85.34374237060547
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/31_01310_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,66.67239379882812
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/19_04902_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,66.0,36.535186767578125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/15_00730_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,98.0,99.92790985107422
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/35_01573_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,100.0,90.6867904663086
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/25_00837_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,64.0,89.15022277832031
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/89_06053_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,66.31040954589844
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/68_04541_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,42.90802001953125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/70_01469_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,84.61090087890625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/75_06020_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,39.8929328918457
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/18_06070_0 - Copy (4).jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Kateřina Sokolová,91.0,45.23151397705078
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/81_00179_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,99.0,99.27082824707031
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/82_06036_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,24.105148315429688
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/37_02357_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,10.16916275024414
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/98_02353_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,4.652118682861328
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/50_01461_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,64.85343933105469
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/52_00985_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,61.0,99.7721939086914
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/20_06080_0 - Copy.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,46.769630432128906
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/91_00849_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,87.068603515625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/5_01749_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,73.4924545288086
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/90_00436_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,97.0,99.89579010009766
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/10_01759_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,95.025146484375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/23_00449_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,92.0,99.8055191040039
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/67_00315_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,99.0,99.26618194580078
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/93_01732_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,84.0,98.7909927368164
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/59_00215_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,100.0,99.72320556640625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/73_00368_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,71.0,99.88211059570312
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/46_00350_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,99.0,99.70793151855469
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/99_00408_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,97.0,99.86180114746094
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/12_02022_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,29.876249313354492
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/11_01666_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,81.0,19.64494514465332
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/22_00199_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,99.0,98.77928924560547
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/64_00269_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,100.0,99.74701690673828
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/38_01392_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Kate Winslet,72.0,85.2230453491211
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/48_00050_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,99.0,99.55879211425781
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/47_00840_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,78.68355560302734
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/26_01863_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Shashi Naidoo,65.0,98.89636993408203
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/69_01409_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,96.21018981933594
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/32_01728_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,98.22977447509766
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/42_06052_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Kateřina Sokolová,61.0,50.77809524536133
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/83_00394_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,78.0,99.86601257324219
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/16_00267_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,100.0,99.57840728759766
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/44_04528_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,79.0,62.06821823120117
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/94_01239_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,95.27474212646484
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/56_01298_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,95.64136505126953
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/9_01221_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,92.42407989501953
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/33_01911_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,93.0,98.44457244873047
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/39_00348_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,98.0,99.63981628417969
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/21_04916_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,81.0,88.6383056640625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/14_00415_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,100.0,99.98081970214844
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/84_04933_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Barbara Palvin,73.0,97.8164291381836
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/100_00841_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,84.5401611328125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/51_01813_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,87.0,97.14261627197266
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/79_01468_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,87.59468841552734
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/13_01410_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,86.46598815917969
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/17_00051_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,99.0,99.16522216796875
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/27_01878_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,94.60262298583984
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/34_00584_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,99.6423568725586
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/92_00779_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,99.0,99.92472839355469
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/24_01744_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,59.961463928222656
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/3_00626_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,92.0,99.74191284179688
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/88_06039_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,34.1566162109375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/4_01456_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,70.61846160888672
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/62_00856_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Kathryn Bolkovac,65.0,70.46932983398438
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/41_00251_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,98.0,99.64128112792969
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/77_04866_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,51.47049331665039
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/7_00733_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,96.0,99.92217254638672
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/43_00649_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,98.0,99.90791320800781
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/28_00211_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,99.0,95.47561645507812
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/74_00698_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,91.0,99.90875244140625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/78_01679_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,17.819948196411133
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/8_01459_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,57.30127716064453
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/72_00650_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,81.0,99.84576416015625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/36_01302_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,65.17292785644531
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/58_02346_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Linsey Godfrey,56.0,9.343659400939941
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/54_01790_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,46.16746139526367
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/57_06082_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,24.646127700805664
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/2_01254_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,74.0,98.14266204833984
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/95_02019_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Kateřina Sokolová,88.0,32.81574630737305
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/71_00814_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,75.0,99.93851470947266
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/6_00922_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,99.47406768798828
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/85_01676_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Shashi Naidoo,56.0,36.19233703613281
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/61_06081_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,38.45151901245117
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/63_06073_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Kateřina Sokolová,64.0,42.9308967590332
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/97_01224_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,81.3968734741211
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/66_00021_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,100.0,99.08088684082031
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/49_00356_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,98.0,99.88208770751953
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/65_00208_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,94.0,97.59197235107422
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/1_04918_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,93.0,90.01094818115234
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/86_00352_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,89.0,99.80998992919922
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/60_01198_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,37.4786491394043
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/87_00157_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,100.0,99.47036743164062
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/45_00605_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,95.0,99.85551452636719
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/96_01117_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Megan Fox,100.0,99.78077697753906
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/30_01659_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,33.562416076660156
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/29_00835_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,87.64630889892578
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/53_01782_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,Linda Hardy,85.0,55.45692443847656
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/76_01508_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,10.703593254089355
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/40_05440_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,49.993568420410156
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/55_01766_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,90.70337677001953
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Megan Fox/80_01663_0.jpg,Megan Fox,Megan Fox,Megan Fox,100.0,,,42.364837646484375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/76_01585_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,2.2744946479797363
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/32_00364_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,62.367034912109375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/2_02175_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,93.56304931640625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/37_03274_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,Noëlle Cordier,81.0,21.47304344177246
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/58_00810_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,52.6837272644043
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/60_01483_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,98.7296371459961
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/74_02847_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,94.99268341064453
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/24_01229_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,25.410491943359375
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/78_01434_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,Chloe Madeley,55.0,86.55262756347656
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/73_00620_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,99.36425018310547
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/63_01372_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,Kaley Cuoco,87.0,98.8420639038086
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/65_03024_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,97.73884582519531
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/40_02004_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,80.13278198242188
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/41_01229_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,97.17101287841797
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/56_02802_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,Sara Fabel,85.0,84.7300796508789
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/14_01396_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,99.77958679199219
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/64_02698_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,Celia Cruz,67.0,99.9616928100586
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/72_00861_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,99.93914031982422
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/66_01515_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,99.86998748779297
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/96_01788_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,Desirée Rancatore,61.0,75.69239807128906
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/99_01921_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,Sara Fabel,68.0,99.440673828125
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/34_03331_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,15.727435111999512
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/19_01364_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,Kaley Cuoco,70.0,99.4742431640625
+/home/sha/project/adversarial_deepfake/src/Similarity/CelebDPR/fake/Kaley Cuoco/57_03193_0.jpg,Kaley Cuoco,Kaley Cuoco,Kaley Cuoco,100.0,,,95.90760803222656
