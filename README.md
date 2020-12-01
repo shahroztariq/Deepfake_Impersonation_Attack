@@ -9,4 +9,22 @@ __Short Description:__ Testing commerical APIs against the threat of deepfakes u
 * __Defense Mechanism__ 
 We present a defense mechanism againstthe above mentioned deepfake attacks and show that even inthe worst-case scenario, our proposed mechanism significantly decreases the original attack success rate from 99.8% to 0.1%.
 
-<img src="https://i.ibb.co/56wKNVq/DFIA-pipeline.png" alt="DFIA-pipeline" border="0" width="700">
+<img src="https://i.ibb.co/56wKNVq/DFIA-pipeline.png" alt="DFIA-pipeline" border="0" width="1000">
+
+# Dataset Samples
+* __CelebDFv2__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
+
+  * Real-Emma Watson (Left) -         Fake Scarlett Johansson (Right) 
+
+
+
+<div class="row"> 
+<div class="column">
+    <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300">
+  </div>
+   
+  <div class="column">
+    <img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
+  </div>
+</div>
+  </div> 
