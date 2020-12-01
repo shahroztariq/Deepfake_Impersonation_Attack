@@ -29,7 +29,7 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
   <img src="https://i.ibb.co/5K6kSRj/Gal-Gadot-real.png" alt="Gal-Gadot-real" border="0" width="300"><img src="https://i.ibb.co/dWPNG8W/Eva-Mendes-fake.png" alt="Eva-Mendes-fake" border="0" width="300">
 
 * __VoxCelebTH__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-  * __Real__ Emma Watson (Left) - __Fake__ Scarlett Johansson (Right) 
+  * __Real__ Chris Hemsworth (Left) [just reference] - __Fake__ Chris Hemsworth (Right) [Reenacted using an unknown video]
   
   <img src="https://i.ibb.co/6tXkzpM/Chris-Hemsworth.jpg" alt="Chris-Hemsworth" border="0" width="300" height=300><img src="https://i.ibb.co/L9dwGj6/0004325.jpg" alt="Chris-Hemsworth-Fake" border="0" width="300"  height=300> 
 
