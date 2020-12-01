@@ -34,7 +34,7 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
   <img src="https://i.ibb.co/6tXkzpM/Chris-Hemsworth.jpg" alt="Chris-Hemsworth" border="0" width="300" height="300"><img src="https://i.ibb.co/L9dwGj6/0004325.jpg" alt="Chris-Hemsworth-Fake" border="0" width="300"  height="300"> 
 
 * __CelebBlend (Ours)__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-  * __Real__ Emma Watson (Left) - __Fake__ Scarlett Johansson (Right)
+  * __Real__ Aamir Khan (Left) - __Real__ Donald Trump (Center-Left) __Fake__ Aamir Khan blended with Donald Trump (Center-Right) __Fake__ Donald Trump blended with Aamir Khan (Right)
   
   <img src="https://i.ibb.co/7QhvB2G/Amir-Khan-Real-3.jpg" alt="Amir-Khan-Real" border="0" width="200" height="200"><img src="https://i.ibb.co/LdnX7Yx/Donald-Trump-Real.jpg" alt="Donald-Trump-Real" border="0" width="200" height="200"><img src="https://i.ibb.co/VMR9sht/Amir-Khan-Fake.jpg" alt="Amir-Khan-Fake" border="0" width="200" height="200"><img src="https://i.ibb.co/z2WbhZQ/Donald-Trump-Fake.jpg" alt="Donald-Trump-Fake" border="0" width="200" height="200">
 
