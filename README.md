@@ -4,10 +4,10 @@ __Paper Title:__ Am I a Real or Fake Celebrity? Evaluating the Robustness of Com
 __Short Description:__ Testing commerical APIs against the threat of deepfakes using Deepfake Impersonation Attack.
 
 #### Main Contributions
-* __Deepfake Impersonation Attack:__ We introduce a novel ap-proach to deceive and evaluate commercial celebrity recognitionweb services against deepfakes emulating impersonation attacks.We also create two novel datasets, Celebrity First Order Motion(CelebFOM) and the Celebrity Blend (CelebBlend), for evaluation.
-* __Extensive Evaluation of Commercial Web APIs:__ We eval-uate how popular major commercial celebrity recognition webAPIs from Amazon, Microsoft, and Naver respond to celebritydeepfakes using four different metrics. We demonstrate that celebrity deepfakes fool all three APIs with an attack successrate of up to 78.0% and 99.9% on targeted and non-targeted attacks, respectively.
+* __Deepfake Impersonation Attack:__ We introduce a novel approach to deceive and evaluate commercial celebrity recognition web services against deepfakes emulating impersonation attacks.We also create two novel datasets, Celebrity First Order Motion(CelebFOM) and the Celebrity Blend (CelebBlend), for evaluation.
+* __Extensive Evaluation of Commercial Web APIs:__ We evaluate how popular major commercial celebrity recognition web APIs from Amazon, Microsoft, and Naver respond to celebrity deepfakes using four different metrics. We demonstrate that celebrity deepfakes fool all three APIs with an attack successrate of up to 78.0% and 99.9% on targeted and non-targeted attacks, respectively.
 * __Defense Mechanism__ 
-We present a defense mechanism againstthe above mentioned deepfake attacks and show that even inthe worst-case scenario, our proposed mechanism significantly decreases the original attack success rate from 99.8% to 0.1%.
+We present a defense mechanism against the above mentioned deepfake attacks and show that even in the worst-case scenario, our proposed mechanism significantly decreases the original attack success rate from 99.8% to 0.1%.
 
 <img src="https://i.ibb.co/56wKNVq/DFIA-pipeline.png" alt="DFIA-pipeline" border="0" width="700">
 
