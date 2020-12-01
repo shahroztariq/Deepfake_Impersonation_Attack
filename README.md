@@ -13,13 +13,14 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
 
 # Dataset Samples
 
- * __FCelebDF (Ours)__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-  * Real-Emma Watson (Left) - Fake Scarlett Johansson (Right) 
+* __FCelebDF (Ours)__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
+  * Real-Emma Watson (Left) - Fake Scarlett Johansson (Right)
+  
     <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
 
 * __CelebDF__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-
   * Real-Emma Watson (Left) - Fake Scarlett Johansson (Right) 
+  
     <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
  
  
