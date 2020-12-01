@@ -14,26 +14,25 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
 # Dataset Samples
 
 * __FCelebDF (Ours)__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-  * Real-Emma Watson (Left) - Fake Scarlett Johansson (Right)
+  * __Real__ Emma Watson (Left) - __Fake__ Scarlett Johansson (Right)
   
   <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
 
 * __CelebDF__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-  * Real-Emma Watson (Left) - Fake Scarlett Johansson (Right) 
+  * __Real__ Emma Watson (Left) - __Fake__ Scarlett Johansson (Right) 
   
   <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
 
 * __CelebFOM (Ours)__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-  * Real-Emma Watson (Left) - Fake Scarlett Johansson (Right) 
-  
-  <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
+  * __Real__ Gal Gadot (Left) - __Fake__ Gal Gadot (Right) reenacted using a real video of Eva Mendes
+  <img src="https://i.ibb.co/5K6kSRj/Gal-Gadot-real.png" alt="Gal-Gadot-real" border="0" width="300"><img src="https://i.ibb.co/dWPNG8W/Eva-Mendes-fake.png" alt="Eva-Mendes-fake" border="0" width="300">
 
 * __VoxCelebTH__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-  * Real-Emma Watson (Left) - Fake Scarlett Johansson (Right) 
+  * __Real__ Emma Watson (Left) - __Fake__ Scarlett Johansson (Right) 
   
   <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
 
 * __CelebBlend (Ours)__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
-  * Real-Emma Watson (Left) - Fake Scarlett Johansson (Right) 
+  * __Real__ Emma Watson (Left) - __Fake__ Scarlett Johansson (Right) 
   
   <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
