@@ -14,8 +14,8 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
 # Dataset Samples
 
 * __FCelebDF (Ours)__ [[Link]]() 
-  * __Real__ Emma Watson (Left)
-  * __Fake__ Scarlett Johansson (Right)
+  * __Real__ Jim Carrey (Left) [just reference]
+  * __Fake__ Jim Carrey (Right) [Reenacted using a real video of Joe Biden]
   
   <img src="https://i.ibb.co/TTHLGK1/Mandatory-Credit-Photo-by-Magnus-Sundholm-Shutterstock-10553545n-Jim-Carrey-Sonic-the-Hedgehog-film.jpg" alt="" border="0" width="300" height="300"><img src="https://i.ibb.co/6DFtxDJ/Jim-Carry-fake-FCeleb-DF.png" alt="Jim-Carry-fake-FCeleb-DF" border="0" width="300" height="300">
 
@@ -33,7 +33,7 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
 
 * __VoxCelebTH__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
   * __Real__ Chris Hemsworth (Left) [just reference]
-  *__Fake__ Chris Hemsworth (Right) [Reenacted using an unknown video]
+  * __Fake__ Chris Hemsworth (Right) [Reenacted using an unknown video]
   
   <img src="https://i.ibb.co/6tXkzpM/Chris-Hemsworth.jpg" alt="Chris-Hemsworth" border="0" width="300" height="300"><img src="https://i.ibb.co/L9dwGj6/0004325.jpg" alt="Chris-Hemsworth-Fake" border="0" width="300"  height="300"> 
 
