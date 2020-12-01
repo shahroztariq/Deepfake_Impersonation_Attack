@@ -13,17 +13,17 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
 
 # Dataset Samples
 
-* __FCelebDF (Ours)__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
+* __FCelebDF (Ours)__ [[Link]]() 
   * __Real__ Emma Watson (Left)
   * __Fake__ Scarlett Johansson (Right)
   
-  <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
+  <img src="https://i.ibb.co/TTHLGK1/Mandatory-Credit-Photo-by-Magnus-Sundholm-Shutterstock-10553545n-Jim-Carrey-Sonic-the-Hedgehog-film.jpg" alt="" border="0" width="300" height="300"><img src="https://i.ibb.co/6DFtxDJ/Jim-Carry-fake-FCeleb-DF.png" alt="Jim-Carry-fake-FCeleb-DF" border="0" width="300" height="300">
 
 * __CelebDF__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
   * __Real__ Emma Watson (Left)
   * __Fake__ Scarlett Johansson (Right) 
   
-  <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
+  <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300">
 
 * __CelebFOM (Ours)__ [[Link]]() 
   * __Real__ Gal Gadot (Left)
@@ -37,7 +37,7 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
   
   <img src="https://i.ibb.co/6tXkzpM/Chris-Hemsworth.jpg" alt="Chris-Hemsworth" border="0" width="300" height="300"><img src="https://i.ibb.co/L9dwGj6/0004325.jpg" alt="Chris-Hemsworth-Fake" border="0" width="300"  height="300"> 
 
-* __CelebBlend (Ours)__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
+* __CelebBlend (Ours)__ [[Link]]() 
   * __Real__ Aamir Khan (Left)
   * __Real__ Donald Trump (Center-Left)
   * __Fake__ Aamir Khan blended with Donald Trump (Center-Right)
