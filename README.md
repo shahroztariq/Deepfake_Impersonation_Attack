@@ -18,12 +18,5 @@ We present a defense mechanism againstthe above mentioned deepfake attacks and s
 
 
 
-<div class="row"> 
-<div class="column">
-    <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300">
-  </div>   
-  <div class="column">
-    <img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
-  </div>
-  </div>
-</div> 
+
+    <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300"><div class="row">
