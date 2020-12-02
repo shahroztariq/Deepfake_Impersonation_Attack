@@ -51,16 +51,16 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
 
 # Defense Models
 1. __ABNET__
-  * [[Source]](https://arxiv.org/abs/2004.14491)
+    * [[Source]](https://arxiv.org/abs/2004.14491)
 2. __CLRNet__
-  * [[Source]](https://arxiv.org/abs/2009.07480)
+    * [[Source]](https://arxiv.org/abs/2009.07480)
 3. __FakeSpotter__
-  * [[Source]](https://www.ijcai.org/Proceedings/2020/476)
+    * [[Source]](https://www.ijcai.org/Proceedings/2020/476)
 4. __FTDetect__
-  * [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/HBU/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.html) [[Code]](https://github.com/cutz-j/FakeTalkerDetect)
+    * [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/HBU/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.html) [[Code]](https://github.com/cutz-j/FakeTalkerDetect)
 6. __MesoNet__
-  * [[Paper]](https://ieeexplore.ieee.org/abstract/document/8630761) [[GitHub]](https://github.com/DariusAf/MesoNet)
+    * [[Paper]](https://ieeexplore.ieee.org/abstract/document/8630761) [[GitHub]](https://github.com/DariusAf/MesoNet)
 5. __ShallowNet__
-  * [[Paper]](https://dl.acm.org/doi/abs/10.1145/3267357.3267367) [[Code]](https://github.com/shahroztariq/ShallowNet)
+    * [[Paper]](https://dl.acm.org/doi/abs/10.1145/3267357.3267367) [[Code]](https://github.com/shahroztariq/ShallowNet)
 7. __Xception__
-  * [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html) [[Code]](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
+    * [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html) [[Code]](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
