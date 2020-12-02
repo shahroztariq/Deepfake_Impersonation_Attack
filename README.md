@@ -13,7 +13,7 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
 
 # Dataset Samples
 
-* __FCelebDF (Ours)__ [[Link]](/samples/FCelebDF.txt) 
+* __FCelebDF (Ours)__ [[Link]](samples/FCelebDF.txt) 
   * __Real__ Gal Gadot - Played Wonder Woman in 2010s Movies (Left) [just a refernce image]
   * __Real__ Lynda Carter - Played Wonder Woman in 1970s TV series (Center-Left) [just a refernce image]
   * __Fake__ Gal Gadot playing Wonder Woman in 1970s series (Center-Right) [Originally played by Lynda Carter]
