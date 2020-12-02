@@ -16,8 +16,9 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
 * __FCelebDF (Ours)__ [[Link]]() 
   * __Real__ Jim Carrey (Left) [just reference]
   * __Fake__ Jim Carrey (Right) [Reenacted using a real video of Joe Biden]
+ 
+  <img src="https://i.ibb.co/DKLXhWc/Gal-Gadot-Original.png" alt="Gal-Gadot-Original" border="0" width="200" height="200"><img src="https://i.ibb.co/gzCcjvQ/Gal-Gadot-wonder-woman-70-s.png" alt="Gal-Gadot-wonder-woman-70-s" border="0" width="200" height="200"><img src="https://i.ibb.co/McSmhzL/linda-carter-new-wonder-woman.png" alt="linda-carter-new-wonder-woman" border="0" width="200" height="200"><img src="https://i.ibb.co/D4QrQgK/linda-carter-org.png" alt="linda-carter-org" border="0" width="200" height="200">
   
-  <img src="https://i.ibb.co/TTHLGK1/Mandatory-Credit-Photo-by-Magnus-Sundholm-Shutterstock-10553545n-Jim-Carrey-Sonic-the-Hedgehog-film.jpg" alt="" border="0" width="200" height="200"><img src="https://i.ibb.co/6DFtxDJ/Jim-Carry-fake-FCeleb-DF.png" alt="Jim-Carry-fake-FCeleb-DF" border="0" width="200" height="200">
 
 * __CelebDF__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
   * __Real__ Emma Watson (Left)
