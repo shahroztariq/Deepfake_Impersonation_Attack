@@ -31,7 +31,7 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
   
   <img src="https://i.ibb.co/5K6kSRj/Gal-Gadot-real.png" alt="Gal-Gadot-real" border="0" width="300"><img src="https://i.ibb.co/dWPNG8W/Eva-Mendes-fake.png" alt="Eva-Mendes-fake" border="0" width="300">
 
-* __VoxCelebTH__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
+* __VoxCelebTH__ [[Link]](https://drive.google.com/drive/folders/1PeGG6zO3ZjrHk2GAXItB8khwMhPPyDHe) 
   * __Real__ Chris Hemsworth (Left) [just reference]
   * __Fake__ Chris Hemsworth (Right) [Reenacted using an unknown video]
   
