@@ -23,19 +23,19 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
   * __Real__ Emma Watson (Left)
   * __Fake__ Scarlett Johansson (Right) 
   
-  <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="300"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="300">
+  <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="200"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="200">
 
 * __CelebFOM (Ours)__ [[Link]]() 
   * __Real__ Gal Gadot (Left)
   * __Fake__ Gal Gadot (Right) [Reenacted using a real video of Eva Mendes]
   
-  <img src="https://i.ibb.co/5K6kSRj/Gal-Gadot-real.png" alt="Gal-Gadot-real" border="0" width="300"><img src="https://i.ibb.co/dWPNG8W/Eva-Mendes-fake.png" alt="Eva-Mendes-fake" border="0" width="300">
+  <img src="https://i.ibb.co/5K6kSRj/Gal-Gadot-real.png" alt="Gal-Gadot-real" border="0" width="200" height="200"><img src="https://i.ibb.co/dWPNG8W/Eva-Mendes-fake.png" alt="Eva-Mendes-fake" border="0" width="200" height="200">
 
 * __VoxCelebTH__ [[Link]](https://drive.google.com/drive/folders/1PeGG6zO3ZjrHk2GAXItB8khwMhPPyDHe) 
   * __Real__ Chris Hemsworth (Left) [just reference]
   * __Fake__ Chris Hemsworth (Right) [Reenacted using an unknown video]
   
-  <img src="https://i.ibb.co/6tXkzpM/Chris-Hemsworth.jpg" alt="Chris-Hemsworth" border="0" width="300" height="300"><img src="https://i.ibb.co/L9dwGj6/0004325.jpg" alt="Chris-Hemsworth-Fake" border="0" width="300"  height="300"> 
+  <img src="https://i.ibb.co/6tXkzpM/Chris-Hemsworth.jpg" alt="Chris-Hemsworth" border="0" width="200" height="200"><img src="https://i.ibb.co/L9dwGj6/0004325.jpg" alt="Chris-Hemsworth-Fake" border="0" width="200"  height="200"> 
 
 * __CelebBlend (Ours)__ [[Link]]() 
   * __Real__ Aamir Khan (Left)
