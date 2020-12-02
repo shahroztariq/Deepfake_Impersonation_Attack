@@ -14,10 +14,13 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
 # Dataset Samples
 
 * __FCelebDF (Ours)__ [[Link]]() 
-  * __Real__ Jim Carrey (Left) [just reference]
-  * __Fake__ Jim Carrey (Right) [Reenacted using a real video of Joe Biden]
+  * __Real__ Gal Gadot - Played Wonder Woman in 2010s Movies (Left) [just a refernce image]
+  * __Real__ Lynda Carter - Played Wonder Woman in 1970s TV series (Center-Left) [just a refernce image]
+  * __Fake__ Gal Gadot playing Wonder Woman in 1970s series (Center-Right) [Originally played by Lynda Carter]
+  * __Fake__ Lynda Carter playing Wonder Woman in 2017 Wonder Woman Movie (Right) [Originally played by Gal Gadot]
+  
  
-  <img src="https://i.ibb.co/DKLXhWc/Gal-Gadot-Original.png" alt="Gal-Gadot-Original" border="0" width="200" height="200"><img src="https://i.ibb.co/gzCcjvQ/Gal-Gadot-wonder-woman-70-s.png" alt="Gal-Gadot-wonder-woman-70-s" border="0" width="200" height="200"><img src="https://i.ibb.co/McSmhzL/linda-carter-new-wonder-woman.png" alt="linda-carter-new-wonder-woman" border="0" width="200" height="200"><img src="https://i.ibb.co/D4QrQgK/linda-carter-org.png" alt="linda-carter-org" border="0" width="200" height="200">
+  <img src="https://i.ibb.co/DKLXhWc/Gal-Gadot-Original.png" alt="Gal-Gadot-Original" border="0" width="200" height="200"><img src="https://i.ibb.co/D4QrQgK/linda-carter-org.png" alt="linda-carter-org" border="0" width="200" height="200"><img src="https://i.ibb.co/gzCcjvQ/Gal-Gadot-wonder-woman-70-s.png" alt="Gal-Gadot-wonder-woman-70-s" border="0" width="200" height="200"><img src="https://i.ibb.co/McSmhzL/linda-carter-new-wonder-woman.png" alt="linda-carter-new-wonder-woman" border="0" width="200" height="200">
   
 
 * __CelebDF__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
