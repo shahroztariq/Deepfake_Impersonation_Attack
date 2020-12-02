@@ -50,15 +50,10 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
   <img src="https://i.ibb.co/7QhvB2G/Amir-Khan-Real-3.jpg" alt="Amir-Khan-Real" border="0" width="200" height="200"><img src="https://i.ibb.co/LdnX7Yx/Donald-Trump-Real.jpg" alt="Donald-Trump-Real" border="0" width="200" height="200"><img src="https://i.ibb.co/VMR9sht/Amir-Khan-Fake.jpg" alt="Amir-Khan-Fake" border="0" width="200" height="200"><img src="https://i.ibb.co/z2WbhZQ/Donald-Trump-Fake.jpg" alt="Donald-Trump-Fake" border="0" width="200" height="200">
 
 # Defense Models
-* __ABNET__
-  * [[Source]](https://arxiv.org/abs/2004.14491)
-* __CLRNet__
-  * [[Source]](https://arxiv.org/abs/2009.07480)
-* __FakeSpotter__
-  * [[Source]](https://www.ijcai.org/Proceedings/2020/476)
-* __FTDetect__
-  * [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/HBU/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.html)
-  * [[Code]](https://github.com/cutz-j/FakeTalkerDetect)
+* __ABNET__ [[Source]](https://arxiv.org/abs/2004.14491)
+* __CLRNet__ [[Source]](https://arxiv.org/abs/2009.07480)
+* __FakeSpotter__[[Source]](https://www.ijcai.org/Proceedings/2020/476)
+* __FTDetect__[[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/HBU/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.html)[[Code]](https://github.com/cutz-j/FakeTalkerDetect)
 * __ShallowNet__
   * [[Paper]](https://dl.acm.org/doi/abs/10.1145/3267357.3267367)
   * [[Code]](https://github.com/shahroztariq/ShallowNet)
