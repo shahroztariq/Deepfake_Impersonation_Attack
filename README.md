@@ -17,7 +17,7 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
   * __Real__ Jim Carrey (Left) [just reference]
   * __Fake__ Jim Carrey (Right) [Reenacted using a real video of Joe Biden]
   
-  <img src="https://i.ibb.co/TTHLGK1/Mandatory-Credit-Photo-by-Magnus-Sundholm-Shutterstock-10553545n-Jim-Carrey-Sonic-the-Hedgehog-film.jpg" alt="" border="0" width="300" height="300"><img src="https://i.ibb.co/6DFtxDJ/Jim-Carry-fake-FCeleb-DF.png" alt="Jim-Carry-fake-FCeleb-DF" border="0" width="300" height="300">
+  <img src="https://i.ibb.co/TTHLGK1/Mandatory-Credit-Photo-by-Magnus-Sundholm-Shutterstock-10553545n-Jim-Carrey-Sonic-the-Hedgehog-film.jpg" alt="" border="0" width="200" height="200"><img src="https://i.ibb.co/6DFtxDJ/Jim-Carry-fake-FCeleb-DF.png" alt="Jim-Carry-fake-FCeleb-DF" border="0" width="200" height="200">
 
 * __CelebDF__ [[Link]](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) 
   * __Real__ Emma Watson (Left)
