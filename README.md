@@ -29,7 +29,7 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
   
   <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="250"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="250">
 
-* __CelebFOM (Ours)__ [[Link]]() 
+* __CelebFOM (Ours)__ [[Link]](samples/CelebFOM) [To view the images in the link click on the image and then scroll down the page to view them]
   * __Real__ Gal Gadot (Left)
   * __Fake__ Gal Gadot (Right) [Reenacted using a real video of Eva Mendes]
   
@@ -41,7 +41,7 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
   
   <img src="https://i.ibb.co/6tXkzpM/Chris-Hemsworth.jpg" alt="Chris-Hemsworth" border="0" width="200" height="200"><img src="https://i.ibb.co/L9dwGj6/0004325.jpg" alt="Chris-Hemsworth-Fake" border="0" width="200"  height="200"> 
 
-* __CelebBlend (Ours)__ [[Link]](samples/CelebBlend) 
+* __CelebBlend (Ours)__ [[Link]](samples/CelebBlend) [To view the images in the link click on the image and then scroll down the page to view them]
   * __Real__ Aamir Khan (Left)
   * __Real__ Donald Trump (Center-Left)
   * __Fake__ Aamir Khan blended with Donald Trump (Center-Right)
