@@ -23,7 +23,7 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
   * __Real__ Emma Watson (Left)
   * __Fake__ Scarlett Johansson (Right) 
   
-  <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="200" height="200"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="200">
+  <img src="https://i.ibb.co/ngQcXCr/Emma-Watson-real.png" alt="Emma-Watson-real" border="0" width="200"><img src="https://i.ibb.co/j4zz0Fh/Scarlett-Johansson-fake.png" alt="Scarlett-Johansson-fake" border="0" width="200">
 
 * __CelebFOM (Ours)__ [[Link]]() 
   * __Real__ Gal Gadot (Left)
