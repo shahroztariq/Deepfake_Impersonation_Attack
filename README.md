@@ -41,7 +41,7 @@ We present a defense mechanism against the above mentioned deepfake attacks and 
   
   <img src="https://i.ibb.co/6tXkzpM/Chris-Hemsworth.jpg" alt="Chris-Hemsworth" border="0" width="200" height="200"><img src="https://i.ibb.co/L9dwGj6/0004325.jpg" alt="Chris-Hemsworth-Fake" border="0" width="200"  height="200"> 
 
-* __CelebBlend (Ours)__ [[Link]]() 
+* __CelebBlend (Ours)__ [[Link]](samples/CelebBlend) 
   * __Real__ Aamir Khan (Left)
   * __Real__ Donald Trump (Center-Left)
   * __Fake__ Aamir Khan blended with Donald Trump (Center-Right)
