@@ -9,7 +9,7 @@ __Short Description:__ Testing commerical APIs against the threat of deepfakes u
 * __Defense Mechanism__ 
 We present a defense mechanism against the above mentioned deepfake attacks and show that even in the worst-case scenario, our proposed mechanism significantly decreases the original attack success rate from 99.8% to 0.1%.
 
-<img src="https://i.ibb.co/56wKNVq/DFIA-pipeline.png" alt="DFIA-pipeline" border="0" width="700">
+<img src="https://i.ibb.co/1fC7jtX/Capture.png" alt="DFIA-pipeline" border="0" width="700">
 
 # Dataset Samples
 
