@@ -3,6 +3,8 @@ __Paper Title:__ Am I a Real or Fake Celebrity? Evaluating the Robustness of Com
 
 __Short Description:__ Testing commerical APIs against the threat of deepfakes using Deepfake Impersonation Attack.
 
+__Dataset Request Form:__ [[Link]](https://docs.google.com/forms/d/e/1FAIpQLSelfBOL9BTrgmIGBnVAKre4x72HhxlPUL-4pd9rSAi5MlWRYA/viewform)
+
 #### Main Contributions
 * __Deepfake Impersonation Attack:__ We introduce a novel approach to deceive and evaluate commercial celebrity recognition web services against deepfakes emulating impersonation attacks.We also create two novel datasets, Celebrity First Order Motion(CelebFOM) and the Celebrity Blend (CelebBlend), for evaluation.
 * __Extensive Evaluation of Commercial Web APIs:__ We evaluate how popular major commercial celebrity recognition web APIs from Amazon, Microsoft, and Naver respond to celebrity deepfakes using four different metrics. We demonstrate that celebrity deepfakes fool all three APIs with an attack successrate of up to 78.0% and 99.9% on targeted and non-targeted attacks, respectively.
